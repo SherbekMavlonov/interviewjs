@@ -22,7 +22,8 @@
       "@utils/*": ["./src/utils/*"],
       "@assets/*": ["./src/assets/*"],
       "@features/*": ["./src/features/*"],
-      "@services/*": ["./src/services/*"]
+      "@services/*": ["./src/services/*"],
+      "@styles/*": ["./src/styles/*"]
     },
     "typeRoots": ["node_modules/@types", "./src/typings"],
     "types": ["node"]
